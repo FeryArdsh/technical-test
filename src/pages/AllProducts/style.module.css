@@ -1,0 +1,12 @@
+.go__admin {
+	color: #272635;
+	display: inline-block;
+}
+.go__admin i {
+	display: inline-block;
+}
+.go__admin:hover {
+	color: rgb(78, 78, 78);
+	text-decoration: underline !important;
+	transform: scale(1.1, 1.1);
+}

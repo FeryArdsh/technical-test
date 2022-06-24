@@ -1,0 +1,22 @@
+.container__detail {
+	width: 100%;
+	background-color: #cecece;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.541);
+	border-radius: 20px;
+	padding: 20px;
+}
+
+.img__product {
+	width: 100%;
+}
+
+.btn__size {
+	background-color: #b1e5f2;
+	width: 40px;
+	height: 40px;
+	border: none;
+	border-radius: 10px;
+	font-weight: 500;
+	font-size: 20px;
+	margin-right: 14px;
+}
